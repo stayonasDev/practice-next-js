@@ -1,5 +1,4 @@
 import AcmeLogo from '@/app/ui/acme-logo';
-// @ts-ignore
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 
